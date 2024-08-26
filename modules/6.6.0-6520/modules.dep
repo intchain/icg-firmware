@@ -1,0 +1,8 @@
+kernel/kernel/locking/locktorture.ko: kernel/kernel/torture.ko
+kernel/kernel/rcu/rcutorture.ko: kernel/kernel/torture.ko
+kernel/kernel/torture.ko:
+kernel/drivers/usb/phy/phy-generic.ko:
+kernel/drivers/mailbox/mailbox-test.ko:
+kernel/drivers/nvmem/nvmem_u-boot-env-mmc.ko:
+extra/cae/cae_control.ko:
+extra/cae/driver_97_ks_k.ko: extra/cae/cae_control.ko

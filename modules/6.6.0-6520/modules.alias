@@ -1,0 +1,20 @@
+# Aliases extracted from modules themselves.
+alias platform:usb_phy_generic phy_generic
+alias of:N*T*Cusb-nop-xceivC* phy_generic
+alias of:N*T*Cusb-nop-xceiv phy_generic
+alias of:N*T*Cmailbox-testC* mailbox_test
+alias of:N*T*Cmailbox-test mailbox_test
+alias of:N*T*Cbrcm,mmcenvC* nvmem_u_boot_env_mmc
+alias of:N*T*Cbrcm,mmcenv nvmem_u_boot_env_mmc
+alias of:N*T*Cu-boot,mmcenv-redundant-countC* nvmem_u_boot_env_mmc
+alias of:N*T*Cu-boot,mmcenv-redundant-count nvmem_u_boot_env_mmc
+alias of:N*T*Cu-boot,mmcenv-redundant-boolC* nvmem_u_boot_env_mmc
+alias of:N*T*Cu-boot,mmcenv-redundant-bool nvmem_u_boot_env_mmc
+alias of:N*T*Cu-boot,mmcenvC* nvmem_u_boot_env_mmc
+alias of:N*T*Cu-boot,mmcenv nvmem_u_boot_env_mmc
+alias platform:cae control cae_control
+alias of:N*T*Cicg,caeC* cae_control
+alias of:N*T*Cicg,cae cae_control
+alias pci:v000010EEd00009038sv*sd*bc*sc*i* driver_97_ks_k
+alias of:N*T*Csecurity-ip-97C* driver_97_ks_k
+alias of:N*T*Csecurity-ip-97 driver_97_ks_k
